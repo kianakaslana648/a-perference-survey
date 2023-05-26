@@ -12,6 +12,6 @@ Then run app.R in Rstudio
 ![alt text](./screenshots/title.jpg)
 ![alt text](./screenshots/1.jpg)
 ![alt text](./screenshots/2.jpg)
-![alt text](./screenshots/3.jpg)
+![alt text](./screenshots/3.png)
 
 ^_^ Thank you!
