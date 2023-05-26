@@ -1,0 +1,97 @@
+"phy_cou_type","Message_Type","total_score","most_appealing_score","least_appealing_score"
+"Physician 1 & Canada","CNS tolerability comparison",0.0273224043715847,0.0601092896174863,0.0327868852459016
+"Physician 1 & Canada","Concomitant acid-reducing agents use",-0.0601092896174863,0.0109289617486339,0.0710382513661202
+"Physician 1 & Canada","Discontinuation rate comparison",0.00546448087431694,0.0437158469945355,0.0382513661202186
+"Physician 1 & Canada","Efficacy comparison (vs darunavir)",0.114754098360656,0.131147540983607,0.0163934426229508
+"Physician 1 & Canada","Efficacy comparison (vs efavirenz)",0.153005464480874,0.163934426229508,0.0109289617486339
+"Physician 1 & Canada","Efficacy in high baseline VL",0.185792349726776,0.191256830601093,0.00546448087431694
+"Physician 1 & Canada","Efficacy in presence of NNRTI resistance mutations",0.0546448087431694,0.0983606557377049,0.0437158469945355
+"Physician 1 & Canada","Flexible dosing",-0.262295081967213,0,0.262295081967213
+"Physician 1 & Canada","Flexible prescribing",-0.120218579234973,0.0327868852459016,0.153005464480874
+"Physician 1 & Canada","GI tolerability comparison",-0.0710382513661202,0.00546448087431694,0.0765027322404372
+"Physician 1 & Canada","Lipid effects comparison",-0.0109289617486339,0.0109289617486339,0.0218579234972678
+"Physician 1 & Canada","Lipid-lowering benefits",-0.0382513661202186,0.0327868852459016,0.0710382513661202
+"Physician 1 & Canada","Managing patients with HIV and hyperlipidemia",0.0273224043715847,0.092896174863388,0.0655737704918033
+"Physician 1 & Canada","Resistance rate comparison",-0.0163934426229508,0.0437158469945355,0.0601092896174863
+"Physician 1 & Canada","Unique resistance profile",0.0163934426229508,0.0491803278688525,0.0327868852459016
+"Physician 1 & Canada","Use with common concomitant medications",-0.00546448087431694,0.0327868852459016,0.0382513661202186
+"Physician 1 & Mexico","CNS tolerability comparison",0.0195439739413681,0.0586319218241042,0.0390879478827362
+"Physician 1 & Mexico","Concomitant acid-reducing agents use",-0.0456026058631922,0.0162866449511401,0.0618892508143322
+"Physician 1 & Mexico","Discontinuation rate comparison",-0.0293159609120521,0.0228013029315961,0.0521172638436482
+"Physician 1 & Mexico","Efficacy comparison (vs darunavir)",0.117263843648208,0.133550488599349,0.0162866449511401
+"Physician 1 & Mexico","Efficacy comparison (vs efavirenz)",0.104234527687296,0.127035830618892,0.0228013029315961
+"Physician 1 & Mexico","Efficacy in high baseline VL",0.153094462540717,0.166123778501629,0.0130293159609121
+"Physician 1 & Mexico","Efficacy in presence of NNRTI resistance mutations",0.0456026058631922,0.0879478827361563,0.0423452768729642
+"Physician 1 & Mexico","Flexible dosing",-0.104234527687296,0.0162866449511401,0.120521172638436
+"Physician 1 & Mexico","Flexible prescribing",-0.127035830618892,0.00651465798045603,0.133550488599349
+"Physician 1 & Mexico","GI tolerability comparison",-0.11400651465798,0.00977198697068404,0.123778501628664
+"Physician 1 & Mexico","Lipid effects comparison",-0.0553745928338762,0.0195439739413681,0.0749185667752443
+"Physician 1 & Mexico","Lipid-lowering benefits",-0.0358306188925081,0.0423452768729642,0.0781758957654723
+"Physician 1 & Mexico","Managing patients with HIV and hyperlipidemia",-0.0260586319218241,0.0651465798045603,0.0912052117263844
+"Physician 1 & Mexico","Resistance rate comparison",0.0228013029315961,0.0651465798045603,0.0423452768729642
+"Physician 1 & Mexico","Unique resistance profile",0.0781758957654723,0.107491856677524,0.0293159609120521
+"Physician 1 & Mexico","Use with common concomitant medications",-0.00325732899022801,0.0553745928338762,0.0586319218241042
+"Physician 1 & USA","CNS tolerability comparison",0.0207612456747405,0.0588235294117647,0.0380622837370242
+"Physician 1 & USA","Concomitant acid-reducing agents use",-0.0865051903114187,0.0242214532871972,0.110726643598616
+"Physician 1 & USA","Discontinuation rate comparison",-0.0207612456747405,0.0449826989619377,0.0657439446366782
+"Physician 1 & USA","Efficacy comparison (vs darunavir)",0.145328719723183,0.15916955017301,0.013840830449827
+"Physician 1 & USA","Efficacy comparison (vs efavirenz)",0.103806228373702,0.13840830449827,0.0346020761245675
+"Physician 1 & USA","Efficacy in high baseline VL",0.103806228373702,0.103806228373702,0
+"Physician 1 & USA","Efficacy in presence of NNRTI resistance mutations",0.0173010380622837,0.0657439446366782,0.0484429065743945
+"Physician 1 & USA","Flexible dosing",-0.131487889273356,0.0311418685121107,0.162629757785467
+"Physician 1 & USA","Flexible prescribing",-0.110726643598616,0.0103806228373702,0.121107266435986
+"Physician 1 & USA","GI tolerability comparison",-0.107266435986159,0.0069204152249135,0.114186851211073
+"Physician 1 & USA","Lipid effects comparison",0.0657439446366782,0.0968858131487889,0.0311418685121107
+"Physician 1 & USA","Lipid-lowering benefits",-0.00346020761245674,0.0484429065743945,0.0519031141868512
+"Physician 1 & USA","Managing patients with HIV and hyperlipidemia",0.0380622837370242,0.0726643598615917,0.0346020761245675
+"Physician 1 & USA","Resistance rate comparison",-0.00346020761245674,0.0380622837370242,0.041522491349481
+"Physician 1 & USA","Unique resistance profile",-0.0069204152249135,0.041522491349481,0.0484429065743945
+"Physician 1 & USA","Use with common concomitant medications",-0.0242214532871972,0.0588235294117647,0.0830449826989619
+"Physician 2 & Canada","CNS tolerability comparison",-0.0327868852459016,0.0382513661202186,0.0710382513661202
+"Physician 2 & Canada","Concomitant acid-reducing agents use",-0.0546448087431694,0.0327868852459016,0.087431693989071
+"Physician 2 & Canada","Discontinuation rate comparison",-0.0218579234972678,0.0273224043715847,0.0491803278688525
+"Physician 2 & Canada","Efficacy comparison (vs darunavir)",0.0983606557377049,0.109289617486339,0.0109289617486339
+"Physician 2 & Canada","Efficacy comparison (vs efavirenz)",0.136612021857923,0.147540983606557,0.0109289617486339
+"Physician 2 & Canada","Efficacy in high baseline VL",0.229508196721311,0.240437158469945,0.0109289617486339
+"Physician 2 & Canada","Efficacy in presence of NNRTI resistance mutations",0.0601092896174863,0.0710382513661202,0.0109289617486339
+"Physician 2 & Canada","Flexible dosing",-0.202185792349727,0.00546448087431694,0.207650273224044
+"Physician 2 & Canada","Flexible prescribing",-0.0765027322404372,0.0218579234972678,0.0983606557377049
+"Physician 2 & Canada","GI tolerability comparison",-0.0491803278688525,0.0109289617486339,0.0601092896174863
+"Physician 2 & Canada","Lipid effects comparison",-0.0546448087431694,0.0437158469945355,0.0983606557377049
+"Physician 2 & Canada","Lipid-lowering benefits",0,0.0546448087431694,0.0546448087431694
+"Physician 2 & Canada","Managing patients with HIV and hyperlipidemia",0.0273224043715847,0.0710382513661202,0.0437158469945355
+"Physician 2 & Canada","Resistance rate comparison",-0.0273224043715847,0.0382513661202186,0.0655737704918033
+"Physician 2 & Canada","Unique resistance profile",0.0109289617486339,0.0546448087431694,0.0437158469945355
+"Physician 2 & Canada","Use with common concomitant medications",-0.0437158469945355,0.0327868852459016,0.0765027322404372
+"Physician 2 & Mexico","CNS tolerability comparison",0.04,0.08,0.04
+"Physician 2 & Mexico","Concomitant acid-reducing agents use",-0.04,0.02,0.06
+"Physician 2 & Mexico","Discontinuation rate comparison",-0.03,0.01,0.04
+"Physician 2 & Mexico","Efficacy comparison (vs darunavir)",0.21,0.22,0.01
+"Physician 2 & Mexico","Efficacy comparison (vs efavirenz)",0.09,0.12,0.03
+"Physician 2 & Mexico","Efficacy in high baseline VL",0.11,0.15,0.04
+"Physician 2 & Mexico","Efficacy in presence of NNRTI resistance mutations",-0.05,0.04,0.09
+"Physician 2 & Mexico","Flexible dosing",-0.16,0,0.16
+"Physician 2 & Mexico","Flexible prescribing",-0.08,0.02,0.1
+"Physician 2 & Mexico","GI tolerability comparison",-0.13,0.02,0.15
+"Physician 2 & Mexico","Lipid effects comparison",-0.05,0.03,0.08
+"Physician 2 & Mexico","Lipid-lowering benefits",-0.03,0,0.03
+"Physician 2 & Mexico","Managing patients with HIV and hyperlipidemia",0,0.05,0.05
+"Physician 2 & Mexico","Resistance rate comparison",0.08,0.1,0.02
+"Physician 2 & Mexico","Unique resistance profile",0.04,0.09,0.05
+"Physician 2 & Mexico","Use with common concomitant medications",0,0.05,0.05
+"Physician 2 & USA","CNS tolerability comparison",0.0176991150442478,0.0619469026548673,0.0442477876106195
+"Physician 2 & USA","Concomitant acid-reducing agents use",-0.0353982300884956,0.00884955752212389,0.0442477876106195
+"Physician 2 & USA","Discontinuation rate comparison",-6.93889390390723e-18,0.0619469026548673,0.0619469026548673
+"Physician 2 & USA","Efficacy comparison (vs darunavir)",0.106194690265487,0.123893805309735,0.0176991150442478
+"Physician 2 & USA","Efficacy comparison (vs efavirenz)",0.141592920353982,0.194690265486726,0.0530973451327434
+"Physician 2 & USA","Efficacy in high baseline VL",0.0884955752212389,0.115044247787611,0.0265486725663717
+"Physician 2 & USA","Efficacy in presence of NNRTI resistance mutations",-0.0619469026548673,0.0176991150442478,0.079646017699115
+"Physician 2 & USA","Flexible dosing",-0.115044247787611,0.0353982300884956,0.150442477876106
+"Physician 2 & USA","Flexible prescribing",-0.115044247787611,0.0353982300884956,0.150442477876106
+"Physician 2 & USA","GI tolerability comparison",-0.0530973451327434,0.0265486725663717,0.079646017699115
+"Physician 2 & USA","Lipid effects comparison",0.0176991150442478,0.0707964601769911,0.0530973451327434
+"Physician 2 & USA","Lipid-lowering benefits",0.00884955752212389,0.0442477876106195,0.0353982300884956
+"Physician 2 & USA","Managing patients with HIV and hyperlipidemia",-0.0530973451327434,0,0.0530973451327434
+"Physician 2 & USA","Resistance rate comparison",0.00884955752212388,0.0530973451327434,0.0442477876106195
+"Physician 2 & USA","Unique resistance profile",0.0619469026548673,0.0973451327433628,0.0353982300884956
+"Physician 2 & USA","Use with common concomitant medications",-0.0176991150442478,0.0530973451327434,0.0707964601769911
