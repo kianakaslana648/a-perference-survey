@@ -9,6 +9,7 @@ Then run app.R in Rstudio
 ^_^ Thank you!
 
 ### Screenshots in case the compability problem of R Shiny apps
+![alt text](./screenshots/title.jpg)
 ![alt text](./screenshots/1.jpg)
 ![alt text](./screenshots/2.jpg)
 ![alt text](./screenshots/3.jpg)
