@@ -133,7 +133,7 @@ ui <- fluidPage(
             'Efficacy comparison (vs darunavir)'."),
     tags$li('According to result plot of BMM, there are preference differences between these two kinds of physicians,
             and there are clear preference differences between USA and Canada/Mexico'),
-    tags$li('For simplication, by doing binomial test on the proportions of most appealing and least appealing messages,
+    tags$li('For simplication, by doing multinomial test on the proportions of most appealing and least appealing messages,
             we could also see the statistically significant difference.'),),
   tags$hr(),
   
